@@ -44,6 +44,35 @@ Sendo fundamentalmente uma proteção de sua organização e de pessoas que se u
     *   Automation of repetitive tasks (e.g., searching a list of malicious domains).
     *   Reviewing web traffic.
     *   Alerting suspicious activity.
+ 
+
+### Transferable Skills (Habilidades Transferíveis)
+Essas são competências que você já desenvolveu em outras áreas da vida ou experiências profissionais anteriores e que são altamente valorizadas no dia a dia da segurança.
+
+*   **Communication (Comunicação):** Como analista, você precisará colaborar com times técnicos e traduzir riscos complexos para pessoas não técnicas (diretores, RH, usuários). Boa comunicação agiliza a mitigação de incidentes.
+*   **Problem-solving (Resolução de Problemas):** Identificar padrões de ataque e determinar a solução mais eficiente para minimizar riscos. Na segurança, raramente existe a "solução perfeita"; compromissos e trade-offs fazem parte do jogo.
+*   **Time Management (Gestão de Tempo):** Cibersegurança exige senso de urgência. Saber priorizar tarefas garante que você foque no problema mais crítico antes que ele cause danos severos aos ativos da empresa.
+*   **Growth Mindset (Mentalidade de Crescimento):** A tecnologia muda rápido. Ter disposição para continuar aprendendo ao longo de toda a carreira é o que diferencia um profissional estagnado de um especialista requisitado.
+*   **Diverse Perspectives (Perspectivas Diversas):** O trabalho em equipe e o respeito mútuo trazem diferentes pontos de vista, o que invariavelmente gera soluções melhores e mais criativas para problemas complexos de segurança.
+
+---
+
+### Technical Skills (Habilidades Técnicas)
+As ferramentas e conceitos práticos que você usará na sua rotina e que servem como a base técnica do seu portfólio.
+
+*   **Programming Languages (Linguagens de Programação):** Essencial para automatizar tarefas repetitivas (como varrer uma lista em busca de domínios maliciosos), organizar dados e identificar padrões de ameaças. *Python* é a principal aqui.
+*   **SIEM Tools (Gerenciamento de Informações e Eventos de Segurança) [^5]:** Ferramentas que centralizam e analisam registros de eventos (logs). Ajudam o analista a monitorar atividades críticas e detectar comportamentos suspeitos em tempo real.
+*   **Intrusion Detection Systems (IDS) [^6]:** Sistemas utilizados para monitorar o tráfego de rede e alertar sobre possíveis acessos não autorizados ou atividades maliciosas.
+*   **Threat Landscape Knowledge (Conhecimento do Cenário de Ameaças):** Estar atualizado sobre as táticas dos atacantes, novos malwares e variantes de *ransomware* [^7]. Esse conhecimento permite que o time antecipe defesas antes que o ataque aconteça.
+*   **Incident Response (Resposta a Incidentes):** Capacidade de seguir políticas e procedimentos estabelecidos pela empresa assim que um alerta dispara. Envolve investigar a causa raiz do problema e aplicar medidas de remediação.
+
+---
+
+> Personally Identifiable Information (PII) : Qualquer informação usada para inferir a identidade de um indivíduo. nome completo; data de nascimento; endereço físico; telefone celular; endereço de e-mail; protocolo de internet; ...
+
+*   **SPII (Sensitive Personally Identifiable Information) [^8]:** Um tipo específico de PII (Informações de Identificação Pessoal) que exige medidas de proteção e conformidade muito mais estritas, pois o uso indevido dessas informações pode causar discriminação ou danos graves ao indivíduo. Número da segurança social; informação médica ou financdira; dados biométricos; + danoso ao indivíduo.
+
+
 
 ---
 
@@ -53,3 +82,6 @@ Sendo fundamentalmente uma proteção de sua organização e de pessoas que se u
 [^2]: **Phishing:** Tipo de ataque cibernético baseado em engenharia social que "pesca" dados sensíveis fingindo ser uma entidade confiável.
 [^3]: **CompTIA Security+:** Certificação global de segurança que valida as habilidades fundamentais de linha de base necessárias para executar funções de segurança essenciais e buscar uma carreira em segurança de TI. No Brasil, possui altíssima demanda pelos empregadores.
 [^4]: **The Cloud (A Nuvem):** Uma rede composta por uma coleção de servidores ou computadores que armazenam recursos e dados em locais físicos remotos (Data Centers) acessíveis através da internet.
+[^5]: **SIEM (Security Information and Event Management):** Plataformas (como Splunk ou Chronicle) que funcionam como o "cérebro" de um SOC. Elas juntam logs de servidores, firewalls e computadores em um só lugar para que o analista encontre correlações de ataques.
+[^6]: **IDS (Intrusion Detection System):** Um sistema de detecção que monitora o tráfego de rede em busca de assinaturas de ataques conhecidos ou comportamentos anômalos, gerando alertas instantâneos para o time de segurança.
+[^7]: **Ransomware:** Um tipo de malware (software malicioso) que sequestra os dados da empresa criptografando-os, exigindo um resgate financeiro (geralmente em criptomoedas) para devolvê-los. É uma das maiores ameaças no mercado brasileiro atual
