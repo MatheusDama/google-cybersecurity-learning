@@ -34,7 +34,7 @@
 
 ## CIA (confidentiality, ​integrity, and availability)
 
-Definition of CIA triad: A foundational cybersecurity model (The CIA (confidentiality, integrity, and availability) triad is a foundational cybersecurity model that helps inform how organizations consider risk when setting up systems and security policies.)
+*importante* Definition of CIA triad: A foundational cybersecurity model (The CIA (confidentiality, integrity, and availability) triad is a foundational cybersecurity model that helps inform how organizations consider risk when setting up systems and security policies.)
 
 > CIA triad: ​asset. ​An asset is an item perceived as having value to an organization. ​And value is determined by the cost ​associated with the asset in question. 
 
