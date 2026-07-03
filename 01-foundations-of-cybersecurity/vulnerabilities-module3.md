@@ -42,6 +42,9 @@
 * **Integrity means:** security professionals can use a form of ​data protection like encryption ​to safeguard data from being tampered with
 * **Availability means:** data is ​accessible to those who are authorized to access it.
 
+# Ethics in cybersecurity.
+
+
 
 
 ---
