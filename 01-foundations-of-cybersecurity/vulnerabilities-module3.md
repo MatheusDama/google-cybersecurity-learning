@@ -43,3 +43,23 @@
 * **Availability means:** data is ​accessible to those who are authorized to access it.
 
 
+
+---
+
+rodapé
+the Cybersecurity Framework, also ​referred to as the NIST (CSF). ​The NIST Cybersecurity Framework is ​a voluntary framework that consists of standards, ​guidelines, and best practices ​to manage cybersecurity risk.
+
+The CIA Triad and Security Controls
+
+    The Confidentiality, Integrity, and Availability (CIA) triad is a foundational model for considering risk in security systems and policies.
+    Security controls are safeguards that reduce specific security risks and are used with frameworks to ensure proper implementation of security goals and processes.
+
+Security Frameworks and Compliance
+
+    Security frameworks are guidelines for building plans to mitigate data and privacy risks, with core components including identifying goals, setting guidelines, implementing processes, and monitoring results.
+    Compliance involves adhering to internal standards and external regulations, with examples like NIST frameworks (Cybersecurity Framework and Risk Management Framework) providing voluntary guidelines for risk management.
+
+Specific Regulations and Standards
+
+    Various regulations and standards exist to address specific security needs, such as FERC-NERC for the power grid, FedRAMP for cloud services, and GDPR for EU data protection.
+    Other important standards include PCI DSS for credit card information, HIPAA for patient health information, and SOC reports for assessing an organization's financial compliance and risk levels.
