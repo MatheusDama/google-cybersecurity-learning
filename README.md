@@ -33,3 +33,5 @@ O programa cobre os fundamentos indispensáveis para a defesa cibernética atrav
 ## 🎯 Objetivo Pessoal
 
 Mais do que apenas um registro de estudos, este repositório funciona como um mostruário das minhas capacidades técnicas. Aqui, os conceitos teóricos se transformam em código, análises e soluções reais para os desafios de segurança do mercado atual.
+
+<img width="942" height="723" alt="certificadocourserainicio" src="https://github.com/user-attachments/assets/db88eadf-d875-4980-8c54-31d17b09a989" />
